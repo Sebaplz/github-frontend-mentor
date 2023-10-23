@@ -4,6 +4,10 @@
 # Deploy en vercel https://github-frontend-mentor.vercel.app/
 
 
+![Captura de pantalla 2023-09-27 180634](https://github.com/Sebaplz/github-frontend-mentor/assets/51845541/24d77e31-1b73-4b16-9add-37b68f7c5060)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
